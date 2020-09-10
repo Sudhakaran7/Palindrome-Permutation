@@ -1,0 +1,46 @@
+Given a string, determine if a permutation of the string could form a palindrome.
+
+Input Description:
+A string s as input.
+
+Output Description:
+Print True or False
+
+Sample Input:
+mamda
+
+Sample Output:
+True
+
+Explanation:
+The given s can be formed as 'madam', which is a palindrome.
+
+Sample Input:
+aab
+
+Sample Output:
+True
+
+Sample Input:
+carerac
+
+Sample Output:
+True
+
+Sample Input:
+gfre
+
+Sample Output:
+False
+
+Sample Input:
+weert
+
+Sample Output:
+False
+
+Sample Input:
+heeh
+
+Sample Output:
+True
